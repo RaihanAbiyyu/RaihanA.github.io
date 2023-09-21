@@ -1,0 +1,45 @@
+.navbar {
+  background-color: #27374D;
+}
+
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #9DB2BF;
+  height: 500px;
+}
+
+.jumbotron img {
+  width: 200px;
+  height: 200px;
+}
+
+.about {
+  text-align: center;
+}
+
+#projects {
+  background-color: #526D82;
+  padding-top: 100px;
+}
+
+#projects h2 {
+  color: white;
+}
+
+#projects img {
+  height: 250px;
+}
+
+footer{
+  background-color: #27374D;
+}
+
+footer p, a {
+  color: white;
+  text-decoration: none;
+
+}
+
+section {
+  padding-top: 5rem;
+}
